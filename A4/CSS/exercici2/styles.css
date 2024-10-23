@@ -8,8 +8,11 @@ body {
 }
 
 .centered {
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-bottom: 20px;
+    width: 100%;
 }
 
 .right {
@@ -27,9 +30,10 @@ body {
 
 .silver {
     background-color: silver;
-    display: inline-block;
     padding: 10px;
-    display: block;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .big {
