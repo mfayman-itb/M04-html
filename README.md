@@ -1,2 +1,2 @@
 # M04-html
-html exercises
+html/css exercises
